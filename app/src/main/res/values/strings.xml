@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALC 4.0</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="about_text">ABOUT ALC</string>
+    <string name="profile_text">MY PROFILE</string>
+    <string name="profile_photo_text">PROFILE PHOTO</string>
+    <string name="name_title">NAME</string>
+    <string name="developer_name">Ukeje Emeka</string>
+    <string name="track_name">TRACK</string>
+    <string name="developer_track">Android</string>
+    <string name="country_title">COUNTRY</string>
+    <string name="developer_country">Nigeria</string>
+    <string name="email_title">EMAIL</string>
+    <string name="developer_email">ukejee3@gmail.com</string>
+    <string name="phone_number_title">PHONE NUMBER</string>
+    <string name="developer_phone_number">+2348178207918</string>
+    <string name="slack_username_title">SLACK USERNAME</string>
+    <string name="developer_slack_username">\@UkejeEmeka</string>
+</resources>
